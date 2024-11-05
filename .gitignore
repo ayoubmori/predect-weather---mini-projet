@@ -1,0 +1,34 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+templates/index2.html
+# Environment variables
+*.env
+.env
+
+# PyCharm and VS Code settings (optional)
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Machine learning models (optional if sensitive or large files)
+models/*.pkl
+
+# Database files
+*.db
+*.sqlite3
+
+# macOS files
+.DS_Store
+
+
